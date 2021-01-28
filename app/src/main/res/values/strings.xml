@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="default_feed_url">https://utm.md/feed</string>
+    <string name="default_storage_file">feed.xml</string>
+    <string name="full_date_format">dd.MM.yyyy HH:mm</string>
+</resources>
